@@ -185,3 +185,15 @@ h3{
           background-color: #3e8e41;
       }
     
+footer{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: #B89878;
+    margin-top: 50px;
+}
+
+a{
+    text-decoration: none;
+    margin: 10px;
+}
